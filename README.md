@@ -606,8 +606,6 @@ Distinguished visual tracking researchers who have published +3 papers which hav
 * [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/)
 * [Haibin Ling](http://www.dabi.temple.edu/~hbling/)
 * [Huchuan Lu](http://ice.dlut.edu.cn/lu/)
-* [Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/)
-* [Lei Zhang](http://www4.comp.polyu.edu.hk/~cslzhang/)
 * [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/)
 * [Matej Kristan](http://www.vicos.si/People/Matejk)
 * [João F. Henriques](http://www.robots.ox.ac.uk/~joao/)
